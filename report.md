@@ -21,3 +21,6 @@ This prototype still has limitations. It works best when the meeting notes conta
 ## Deployment Recommendation
 
 I would recommend this workflow only as a support tool, not as a fully automated system. It can save time by producing a first draft of action items after a meeting, but a human should still review the results before sharing them with a team. This is especially important when meeting notes are incomplete or when deadlines and ownership are unclear. Under those conditions, I think this workflow could be valuable as a productivity tool with human oversight.
+
+## video link
+https://youtu.be/ZeZVMNo7aWU
